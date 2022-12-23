@@ -1,0 +1,10 @@
+c:\users\sanane\documents\visual studio 2010\Projects\bankaProje\bankaProje\bin\Debug\bankaProje.exe
+c:\users\sanane\documents\visual studio 2010\Projects\bankaProje\bankaProje\bin\Debug\bankaProje.pdb
+c:\users\sanane\documents\visual studio 2010\Projects\bankaProje\bankaProje\obj\x86\Debug\bankaProje.Properties.Resources.resources
+c:\users\sanane\documents\visual studio 2010\Projects\bankaProje\bankaProje\obj\x86\Debug\bankaProje.csproj.GenerateResource.Cache
+c:\users\sanane\documents\visual studio 2010\Projects\bankaProje\bankaProje\obj\x86\Debug\bankaProje.exe
+c:\users\sanane\documents\visual studio 2010\Projects\bankaProje\bankaProje\obj\x86\Debug\bankaProje.pdb
+C:\Users\sanane\Documents\Visual Studio 2010\Projects\bankaProje\bankaProje\obj\x86\Debug\bankaProje.csprojResolveAssemblyReference.cache
+C:\Users\sanane\Documents\Visual Studio 2010\Projects\bankaProje\bankaProje\obj\x86\Debug\bankaProje.frmsiraAl.resources
+C:\Users\sanane\documents\visual studio 2010\Projects\bankaProje\bankaProje\obj\x86\Debug\bankaProje.frmgiris.resources
+C:\Users\sanane\documents\visual studio 2010\Projects\bankaProje\bankaProje\obj\x86\Debug\bankaProje.frmkayit.resources
